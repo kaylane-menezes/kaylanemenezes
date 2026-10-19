@@ -19,3 +19,4 @@ Conquistar minha primeira oportunidade no mercado de TI (Estágio / Junior).
 
 📚 Projetos em Destaque (SENAI / CEJO)
 Aqui estão alguns dos principais projetos que desenvolvi durante minha jornada acadêmica:
+Jogo-python
